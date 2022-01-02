@@ -10,6 +10,7 @@ body {
 }
 h1 {
   font-size: 39px;
+  color: #333;
 }
 li {
   font-weight: 300;
@@ -17,4 +18,14 @@ li {
 }
 li:nth-child(even) {
   color: #c000c0;
+}
+.section {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+.box {
+  width: 450px;
+  margin-top: 50px;
+  padding: 10px 20px;
+  border: 1px solid #333;
+  border-radius: 10px;
 }
